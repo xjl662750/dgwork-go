@@ -1,4 +1,4 @@
-module dgwork-go
+module github.com/xjl662750/dgwork-go
 
 go 1.14
 
