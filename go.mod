@@ -1,4 +1,4 @@
-module dgwork
+module dgwork-go
 
 go 1.14
 
